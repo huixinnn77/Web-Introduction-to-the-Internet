@@ -8,5 +8,5 @@
 作業一【個人網站】：[https://huixinnn77.github.io/Web-Introduction-to-the-Internet/
 ](https://huixinnn77.github.io/Web-Introduction-to-the-Internet/index.html)
 
-作業二【react連接taipei-board】：http://localhost:8081/
+
 
