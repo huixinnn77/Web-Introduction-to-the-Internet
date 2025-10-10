@@ -5,8 +5,10 @@
 ### 學生:41371217H 邱慧馨
 ### 授課老師：蔡芸錚
 ---
-【作業一】：
-[個人網站](https://huixinnn77.github.io/Web-Introduction-to-the-Internet/)
+
+【作業一】：[個人網站](https://huixinnn77.github.io/Web-Introduction-to-the-Internet/)
+
+---
 
 【作業二】：
 【作業二說明影片】(https://youtu.be/PEIvJHiSeyk)
