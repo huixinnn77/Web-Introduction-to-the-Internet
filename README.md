@@ -8,7 +8,7 @@
 
 * 【作業一】：
 
-[個人網站](https://huixinnn77.github.io/Web-Introduction-to-the-Internet/)
+【作業一個人網站】：[Huixin的個人網站](https://huixinnn77.github.io/Web-Introduction-to-the-Internet/)
 
 ---
 
