@@ -11,7 +11,7 @@
 ---
 
 【作業二】：
-【作業二說明影片】(https://youtu.be/PEIvJHiSeyk)
+【作業二說明影片】：[網際網路概論-作業二影片](https://youtu.be/PEIvJHiSeyk)
 
-【更改AItest的Markdown部分】[AItest](AItest.tsx)
+【更改AItest的Markdown部分】：[AItest](AItest.tsx)
 
