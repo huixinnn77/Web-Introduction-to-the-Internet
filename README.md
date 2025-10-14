@@ -16,5 +16,11 @@
 
 【作業二說明影片】：[網際網路概論-作業二影片](https://youtu.be/PEIvJHiSeyk)
 
-【更改AItest的Markdown部分】：[AItest](AItest.tsx)
+【[AItest](AItest.tsx)】：
+1. 修改回覆的空行風格(markdown)
+2. 修改對話框位置，改為置中並自動調整大小(wrap、card)
+3. 新增回覆時文字動畫(displayedText)
+4. 新增更換主題顏色功能&選單(theme,style header)
+5. 新增可以選擇AI角色，並自動填入對話框訊息中(roles)
+6. 將AI回覆訊息框拉大，使使用者更好查看訊息(style)
 
