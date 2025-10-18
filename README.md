@@ -8,7 +8,7 @@
 
 * 【作業一】：
 
-【作業一個人網站】：[Huixin的個人網站](https://huixinnn77.github.io/Web-Introduction-to-the-Internet/)
+〔作業一個人網站〕：[Huixin的個人網站](https://huixinnn77.github.io/Web-Introduction-to-the-Internet/)
 
 ---
 
@@ -33,6 +33,6 @@
 ---
 * 【作業三】：
   
-  〔作業三說明影片〕：[網際網路概論-作業三影片](https://youtu.be/9uTEPsfmH28)
+〔作業三說明影片〕：[網際網路概論-作業三影片](https://youtu.be/9uTEPsfmH28)
 
-  〔作業三repository〕：[Web-Introduction-to-the-Internet-2](https://github.com/huixinnn77/Web-Introduction-to-the-Internet-2)
+〔作業三repository〕：[Web-Introduction-to-the-Internet-2](https://github.com/huixinnn77/Web-Introduction-to-the-Internet-2)
