@@ -19,7 +19,7 @@
 <details>
 <summary>AItest修改部分：</summary>
 
-[AItest](AItest.tsx)
+【修改過的AItest】：[AItest](AItest.tsx)
 1. 修改回覆的空行風格(markdown)
 2. 修改對話框位置，改為置中並自動調整大小(wrap、card)
 3. 新增回覆時文字動畫(displayedText)
