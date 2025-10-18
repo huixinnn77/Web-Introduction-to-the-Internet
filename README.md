@@ -17,9 +17,10 @@
 〔作業二說明影片〕：[網際網路概論-作業二影片](https://youtu.be/PEIvJHiSeyk)
 
 <details>
-<summary>AItest修改部分：</summary>
+<summary> 〔AItest〕修改部分：</summary>
 
-【修改過的AItest】：[AItest](AItest.tsx)
+【修改過的 AItest】：[AItest](AItest.tsx)
+
 1. 修改回覆的空行風格(markdown)
 2. 修改對話框位置，改為置中並自動調整大小(wrap、card)
 3. 新增回覆時文字動畫(displayedText)
