@@ -17,7 +17,7 @@
 〔作業二說明影片〕：[網際網路概論-作業二影片](https://youtu.be/PEIvJHiSeyk)
 
 <details>
-<summary> 〔AItest〕修改部分：</summary>
+<summary>(展開) 〔AItest〕修改部分：</summary>
 
 【修改過的 AItest】：[AItest](AItest.tsx)
 
